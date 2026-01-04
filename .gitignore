@@ -166,3 +166,6 @@ Thumbs.db
 # Logs
 *.log
 *.sqlite3
+
+# Databases
+*.db
